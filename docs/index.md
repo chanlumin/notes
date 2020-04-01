@@ -1,17 +1,8 @@
-# Hello dum!
+# 主页!
 
 
 ```jsx
 import React from 'react';
 
-export default () => <h2>First Demo</h2>;
-```
-
-
-## 测试
-
-
-```jsx
-
-
+export default () => <h2>测试</h2>;
 ```
